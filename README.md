@@ -4,7 +4,7 @@ Enpuzzled is our second commercial Haskell game. It's available for Android on [
 and is comming out soon for iOS on the AppStore!
 
 <p align="center">
-<img src="https://github.com/keera-studios/enpuzzled/raw/master/enpuzzled.gif" alt="Screen capture of Enpuzzled on Android" />
+<img src="enpuzzled.gif" alt="Screen capture of Enpuzzled on Android" />
 <br /> Screen capture of Enpuzzled on Android
 </p>
 
