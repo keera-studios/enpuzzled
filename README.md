@@ -4,11 +4,8 @@ Enpuzzled is our second commercial Haskell game. It's available for Android on [
 and is comming out soon for iOS on the AppStore!
 
 <p align="center">
-<img src="https://github.com/keera-studios/enpuzzled/raw/master/screenshots/splash.png" alt="Splash screen of Enpuzzled on Android" />
-<img src="https://github.com/keera-studios/enpuzzled/raw/master/screenshots/lvl-screen-1.png" alt="Levels menu screen of Enpuzzled on Android" />
-<img src="https://github.com/keera-studios/enpuzzled/raw/master/screenshots/lvl-4-5m.png" alt="Playing Level 4 of Enpuzzled on Android" />
-<img src="https://github.com/keera-studios/enpuzzled/raw/master/screenshots/lvl-4-solved.png" alt="Solved Level 4 of Enpuzzled on Android" />
-<br /> Screen captures of Enpuzzled on Android
+<img src="https://github.com/keera-studios/enpuzzled/raw/master/enpuzzled.gif" alt="Screen capture of Enpuzzled on Android" />
+<br /> Screen capture of Enpuzzled on Android
 </p>
 
 # Something doesn't work
