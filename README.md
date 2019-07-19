@@ -16,7 +16,7 @@ We often comment on our progress on [Facebook](http://facebook.com/keerastudios)
 
 # FAQ
 ## What technology have you used?
-The game is written in Haskell. For Android, there's a C and Java wrapper that merely invoke our Haskell main. For iOS, that part is done in objective C. It uses SDL2 for multimedia. The core is written in the Functional Reactive Programming library [Yampa](http://github.com/ivanperez-keera/Yampa).
+The game is written in Haskell. For Android, there's a C and Java wrapper that merely invoke our Haskell main. For iOS, that part is done in objective C. It uses SDL2 for multimedia. The core uses the Functional Reactive Programming library [Yampa](http://github.com/ivanperez-keera/Yampa).
 
 ## Is your game open source?
 Currently, **not**. We use this repo for issue tracking, so that github users have a quick and easy way to report issues, communicate with us and be notified when they are solved. Some of the (general purpose) code does make it into public and open source projects, though.
