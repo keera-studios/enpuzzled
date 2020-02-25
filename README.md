@@ -1,4 +1,4 @@
-# Enpuzzle your brain!
+# Enpuzzled - You against the board. How clever are you?
 
 Enpuzzled is our second commercial Haskell game. It's available for [Android on Google Play](https://play.google.com/store/apps/details?id=uk.co.keera.games.enpuzzled)
 and on for [iOS on the AppStore](https://apps.apple.com/us/app/enpuzzled/id1460083994)!
