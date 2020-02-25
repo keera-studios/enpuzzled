@@ -1,7 +1,7 @@
 # Enpuzzle your brain!
 
-Enpuzzled is our second commercial Haskell game. It's available for Android on [Google Play](https://play.google.com/store/apps/details?id=uk.co.keera.games.enpuzzled)
-and is comming out soon for iOS on the AppStore!
+Enpuzzled is our second commercial Haskell game. It's available for [Android on Google Play](https://play.google.com/store/apps/details?id=uk.co.keera.games.enpuzzled)
+and on for [iOS on the AppStore](https://apps.apple.com/us/app/enpuzzled/id1460083994)!
 
 <p align="center">
 <img src="enpuzzled.gif" alt="Screen capture of Enpuzzled on Android" />
